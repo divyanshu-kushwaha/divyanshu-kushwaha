@@ -2,14 +2,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
 
-<h2 align="center" style="font-family: 'Google Sans', sans-serif;">
+<h1 align="center" style="font-family: 'Google Sans', sans-serif;">
     <b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Diyanshu!</b> 
-</h2>
+</h1>
 
 <hr>
 
 <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
-<h5 style="font-family: 'Google Sans', sans-serif;">Technical Skills </h5>
+<h3 style="font-family: 'Google Sans', sans-serif;">Technical Skills </h3>
 
 <p align="left"> 
   <a href="https://nodejs.org"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -102,7 +102,7 @@
 <hr>
 
 <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;
-<h5 style="font-family: 'Google Sans', sans-serif;">Github Activity</h5>
+<h3 style="font-family: 'Google Sans', sans-serif;">Github Activity</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu-kushwaha&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=divyanshu-kushwaha&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="stats" width="410" /></p>
@@ -115,7 +115,7 @@
 <hr>
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30px"  width="30px"> &nbsp;
-<h5 style="font-family: 'Google Sans', sans-serif;">Coding Profiles</h5>
+<h3 style="font-family: 'Google Sans', sans-serif;">Coding Profiles</h3>
 
 <p>
 <a href="https://codeforces.com/profile/archived_spark"><img src="https://badges.joonhyung.xyz/codeforces/archived_spark.svg" alt="Codeforces"></a>
@@ -128,7 +128,7 @@
 <hr>
 
 <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" height="30px" width="30px"> &nbsp;
-<h5 style="font-family: 'Google Sans', sans-serif;">Connect with me</h5>
+<h3 style="font-family: 'Google Sans', sans-serif;">Connect with me</h3>
 
 <p>
 <a target="_blank" href="http://www.linkedin.com/in/dkdivyanshu118"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
