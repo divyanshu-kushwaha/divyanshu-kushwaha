@@ -118,7 +118,7 @@
 <h3 style="font-family: 'Google Sans', sans-serif;">Coding Profiles</h3>
 
 <p>
-<a href="https://codeforces.com/profile/archived_spark"><img src="https://badges.joonhyung.xyz/codeforces/archived_spark.svg" alt="Codeforces"></a>
+<a href="https://codeforces.com/profile/unleashed_spark"><img src="https://badges.joonhyung.xyz/codeforces/unleashed_spark.svg" alt="Codeforces"></a>
 &emsp;
 <a href="https://atcoder.jp/users/archived_spark"><img src="https://cp-logo.vercel.app/atcoder/archived_spark?logo=true" alt="AtCoder" /></a>
 &emsp;
